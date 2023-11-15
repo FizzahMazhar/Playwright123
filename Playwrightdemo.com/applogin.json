@@ -1,0 +1,274 @@
+{
+  "cookies" : [ {
+    "name" : "CookieConsentPolicy",
+    "value" : "0:1",
+    "domain" : "ibo--pspdevpro.sandbox.my.salesforce.com",
+    "path" : "/",
+    "expires" : 1.730358113866284E9,
+    "httpOnly" : false,
+    "secure" : false,
+    "sameSite" : "Lax"
+  }, {
+    "name" : "LSKey-c$CookieConsentPolicy",
+    "value" : "0:1",
+    "domain" : "ibo--pspdevpro.sandbox.my.salesforce.com",
+    "path" : "/",
+    "expires" : 1.730358113866512E9,
+    "httpOnly" : false,
+    "secure" : false,
+    "sameSite" : "Lax"
+  }, {
+    "name" : "BrowserId",
+    "value" : "iOTb5niEEe6mCSFt501xXw",
+    "domain" : ".salesforce.com",
+    "path" : "/",
+    "expires" : 1.730358113866653E9,
+    "httpOnly" : false,
+    "secure" : false,
+    "sameSite" : "Lax"
+  }, {
+    "name" : "BrowserId_sec",
+    "value" : "iOTb5niEEe6mCSFt501xXw",
+    "domain" : ".salesforce.com",
+    "path" : "/",
+    "expires" : 1.730358113866692E9,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  }, {
+    "name" : "CookieConsentPolicy",
+    "value" : "0:0",
+    "domain" : "test.salesforce.com",
+    "path" : "/",
+    "expires" : 1.730358115787988E9,
+    "httpOnly" : false,
+    "secure" : false,
+    "sameSite" : "Lax"
+  }, {
+    "name" : "LSKey-c$CookieConsentPolicy",
+    "value" : "0:0",
+    "domain" : "test.salesforce.com",
+    "path" : "/",
+    "expires" : 1.730358115788071E9,
+    "httpOnly" : false,
+    "secure" : false,
+    "sameSite" : "Lax"
+  }, {
+    "name" : "session",
+    "value" : "1698822116283",
+    "domain" : "test.salesforce.com",
+    "path" : "/",
+    "expires" : -1,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  }, {
+    "name" : "inst",
+    "value" : "APP_1j",
+    "domain" : ".salesforce.com",
+    "path" : "/",
+    "expires" : -1,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  }, {
+    "name" : "rememberUn",
+    "value" : "false",
+    "domain" : ".salesforce.com",
+    "path" : "/",
+    "expires" : 1.704006117124445E9,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  }, {
+    "name" : "com.salesforce.LocaleInfo",
+    "value" : "us",
+    "domain" : ".salesforce.com",
+    "path" : "/",
+    "expires" : 1.704006117124512E9,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  }, {
+    "name" : "oinfo",
+    "value" : "c3RhdHVzPURFTU8mdHlwZT02Jm9pZD0wMEQxajAwMDAwMEdNVlk=",
+    "domain" : ".salesforce.com",
+    "path" : "/",
+    "expires" : 1.70400611712454E9,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  }, {
+    "name" : "sfdc_lv2",
+    "value" : "KxG83H8x1ij+w2ymiJQEIKRxyEFHsHPawmG5UuZmABdLyrv8Vxl3eqVMDJVv2dteg=",
+    "domain" : ".salesforce.com",
+    "path" : "/",
+    "expires" : 1.730358117811834E9,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  }, {
+    "name" : "disco",
+    "value" : "1j:00D1j000000GMVY:0051j00000CDP8Y:2",
+    "domain" : ".salesforce.com",
+    "path" : "/",
+    "expires" : -1,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  }, {
+    "name" : "autocomplete",
+    "value" : "1",
+    "domain" : ".salesforce.com",
+    "path" : "/",
+    "expires" : 1.704006117811987E9,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  }, {
+    "name" : "sid",
+    "value" : "00D1j000000GMVY!AR8AQJNuw2Tg5.SxlZFAhENfBdXPdLMWj3vtkm7_dSET59JbkeD37h_f8lRb1p_WOKxPjT3SoGOL8Iwpb6suKW4XItOWa8cR",
+    "domain" : "ibo--pspdevpro.sandbox.my.salesforce.com",
+    "path" : "/",
+    "expires" : -1,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  }, {
+    "name" : "sid_Client",
+    "value" : "j00000CDP8Yj000000GMVY",
+    "domain" : "ibo--pspdevpro.sandbox.my.salesforce.com",
+    "path" : "/",
+    "expires" : -1,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  }, {
+    "name" : "clientSrc",
+    "value" : "182.185.199.225",
+    "domain" : "ibo--pspdevpro.sandbox.my.salesforce.com",
+    "path" : "/",
+    "expires" : -1,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  }, {
+    "name" : "oid",
+    "value" : "00D1j000000GMVY",
+    "domain" : "ibo--pspdevpro.sandbox.my.salesforce.com",
+    "path" : "/",
+    "expires" : 1.730358117812412E9,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  }, {
+    "name" : "webact",
+    "value" : "%7B%22l_vdays%22%3A-1%2C%22l_visit%22%3A0%2C%22session%22%3A1698822118290%2C%22l_search%22%3A%22%22%2C%22l_dtype%22%3A%22%22%2C%22l_page%22%3A%22%22%2C%22l_page_url%22%3A%22%22%2C%22counter%22%3A0%2C%22pv%22%3A0%2C%22f_visit%22%3A1698822118290%2C%22customer%22%3A1698822118290%7D",
+    "domain" : ".salesforce.com",
+    "path" : "/",
+    "expires" : 1730358117,
+    "httpOnly" : false,
+    "secure" : false,
+    "sameSite" : "Lax"
+  }, {
+    "name" : "CookieConsentPolicy",
+    "value" : "0:0",
+    "domain" : "cs102.salesforce.com",
+    "path" : "/",
+    "expires" : 1.730358118565256E9,
+    "httpOnly" : false,
+    "secure" : false,
+    "sameSite" : "Lax"
+  }, {
+    "name" : "LSKey-c$CookieConsentPolicy",
+    "value" : "0:0",
+    "domain" : "cs102.salesforce.com",
+    "path" : "/",
+    "expires" : 1.730358118565344E9,
+    "httpOnly" : false,
+    "secure" : false,
+    "sameSite" : "Lax"
+  }, {
+    "name" : "oid",
+    "value" : "00D1j000000GMVY",
+    "domain" : "cs102.salesforce.com",
+    "path" : "/",
+    "expires" : 1.730358118565396E9,
+    "httpOnly" : false,
+    "secure" : false,
+    "sameSite" : "Lax"
+  }, {
+    "name" : "CookieConsentPolicy",
+    "value" : "0:1",
+    "domain" : "ibo--pspdevpro.sandbox.file.force.com",
+    "path" : "/",
+    "expires" : 1.730358119563461E9,
+    "httpOnly" : false,
+    "secure" : false,
+    "sameSite" : "Lax"
+  }, {
+    "name" : "LSKey-c$CookieConsentPolicy",
+    "value" : "0:1",
+    "domain" : "ibo--pspdevpro.sandbox.file.force.com",
+    "path" : "/",
+    "expires" : 1.730358119563546E9,
+    "httpOnly" : false,
+    "secure" : false,
+    "sameSite" : "Lax"
+  }, {
+    "name" : "BrowserId",
+    "value" : "jD5nlHiEEe68xPc3CZDJvg",
+    "domain" : ".force.com",
+    "path" : "/",
+    "expires" : 1.730358119563583E9,
+    "httpOnly" : false,
+    "secure" : false,
+    "sameSite" : "Lax"
+  }, {
+    "name" : "BrowserId_sec",
+    "value" : "jD5nlHiEEe68xPc3CZDJvg",
+    "domain" : ".force.com",
+    "path" : "/",
+    "expires" : 1.73035811956361E9,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  }, {
+    "name" : "sid",
+    "value" : "00D1j000000GMVY!AR8AQDoFqQya2NQZskf9kPSuNv6Ak4o8iv1zoZK7ISGxUUsZW5lrMHQPFTzLnLGDS.7_xh6j4ZZn6kiuodmGC6e9Een93gG7",
+    "domain" : "ibo--pspdevpro.sandbox.file.force.com",
+    "path" : "/",
+    "expires" : -1,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  }, {
+    "name" : "sid_Client",
+    "value" : "j00000CDP8Yj000000GMVY",
+    "domain" : "ibo--pspdevpro.sandbox.file.force.com",
+    "path" : "/",
+    "expires" : -1,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  }, {
+    "name" : "clientSrc",
+    "value" : "182.185.199.225",
+    "domain" : "ibo--pspdevpro.sandbox.file.force.com",
+    "path" : "/",
+    "expires" : -1,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  }, {
+    "name" : "inst",
+    "value" : "APP_1j",
+    "domain" : ".force.com",
+    "path" : "/",
+    "expires" : -1,
+    "httpOnly" : false,
+    "secure" : true,
+    "sameSite" : "None"
+  } ],
+  "origins" : [ ]
+}
